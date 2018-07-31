@@ -1,1 +1,8 @@
 LIBRARY
+
+EXPORTS
+
+open_dev
+close_dev
+write_bytes
+read_bytes
